@@ -6,3 +6,4 @@ aiv-cdn.net
 aiv-delivery.net
 cloudfront.net
 amazonalexa.com
+firetvcaptiveportal.com
