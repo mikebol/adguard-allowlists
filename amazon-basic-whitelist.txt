@@ -1,0 +1,6 @@
+! Amazon and FireTV URLs
+amazon.com
+amazon-adsystem.com
+amazonaws.com
+aiv-cdn.net
+aiv-delivery.net
