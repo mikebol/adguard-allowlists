@@ -1,19 +1,42 @@
-! Microsoft sites and services 
+# Microsoft sites and services 
 microsoft.com
 microsoftonline.com
 msn.com
 oath.com
 appcenter.ms
-bing.com
 live.com
+live.net
 office.com
 office.net
 office365.com
 sharepoint.com
 skype.com
 windows.com
+windowsupdate.com
 azure.com
 visualstudio.com
 linkedin.com
 licdn.com
 lnkd.in
+xbox.com
+xboxlive.com
+#
+# Bing Sites
+#
+bing.at
+bing.ch
+bing.co.uk
+bing.com
+bing.com.br
+bing.cz
+bing.es
+bing.fi
+bing.fr
+bing.gr
+bing.hu
+bing.ie
+bing.it
+bing.no
+bing.pl
+bing.ru
+bing.se
