@@ -1,0 +1,15 @@
+! Microsoft sites and services 
+microsoft.com
+msn.com
+oath.com
+appcenter.ms
+bing.com
+live.com
+office.com
+office365.com
+windows.com
+azure.com
+visualstudio.com
+linkedin.com
+licdn.com
+lnkd.in
