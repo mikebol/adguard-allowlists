@@ -1,1 +1,8 @@
 google.com
+youtu.be
+youtube-dl.org
+youtube-nocookie.com
+youtube-ui.l.google.com
+youtube.com
+googleapis.com
+ggpht.com
