@@ -7,7 +7,10 @@ appcenter.ms
 bing.com
 live.com
 office.com
+office.net
 office365.com
+sharepoint.com
+skype.com
 windows.com
 azure.com
 visualstudio.com
