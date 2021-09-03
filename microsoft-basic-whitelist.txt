@@ -1,5 +1,6 @@
 ! Microsoft sites and services 
 microsoft.com
+microsoftonline.com
 msn.com
 oath.com
 appcenter.ms
