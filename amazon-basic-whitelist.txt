@@ -4,3 +4,5 @@ amazon-adsystem.com
 amazonaws.com
 aiv-cdn.net
 aiv-delivery.net
+cloudfront.net
+amazonalexa.com
